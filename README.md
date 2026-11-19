@@ -48,7 +48,7 @@ The raw file has 180,519 order lines (one row per product in an order) and 53 co
 ```
 notebooks/   data cleaning, statistics and charts
 sql/         create and load tables, validation, order fulfillment, inventory
-dashboard/   supply_chain_dashboard.pbix
+dashboard/   supply_chain_project_dashboard.pbix
 images/      dashboard screenshots
 ```
 
