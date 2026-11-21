@@ -60,4 +60,4 @@ images/      dashboard screenshots
 5. Open the `.pbix` file in Power BI Desktop and point it to your MySQL database.
 
 ## Author
-[Tama Talukder] | [LinkedIn] [https://www.linkedin.com/in/tama-talukder/]
+[Tama Talukder] | [LinkedIn] (https://www.linkedin.com/in/tama-talukder/)
